@@ -7,10 +7,10 @@
   alt="Mulia Wahiddin Profile Picture"
 />
 
-# Hi, I'm Mvnx 👋
+# Hi, I'm Mulia 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Information+Systems+Student;UI%2FUX+%26+System+Design;Data+%26+Machine+Learning;Software+Development;Always+Learning+Something+New"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Information+Systems+Student;C+%7C+Java+%7C+Python;Database+%26+System+Design;UI%2FUX+Enthusiast;Always+Learning+Something+New"
   alt="Typing SVG"
 />
 
@@ -31,15 +31,15 @@
 
 ### 👨‍💻 About Me
 
-I'm an **Information Systems student** interested in building digital products that combine technology, data, and thoughtful user experiences.
+I'm an **Information Systems student** interested in software development, databases, system design, and digital product development.
 
 - 🎓 Studying **Information Systems**
-- 💻 Interested in **Software Development & System Design**
-- 🎨 Exploring **UI/UX Design**
-- 📊 Learning **Data Science & Machine Learning**
-- 🧩 Enjoy solving problems through **Computational Thinking**
-- 🛠️ Currently improving my skills in **Java, Python, SQL, and Web Development**
-- 🚀 Always experimenting with new technologies and ideas
+- 💻 Programming with **C, Java, and Python**
+- 🗄️ Working with **MySQL, MariaDB, and PostgreSQL**
+- 🎨 Interested in **UI/UX Design**
+- 🧩 Learning **System Analysis & System Design**
+- 📊 Exploring **Data Processing with Python**
+- 🚀 Always learning and building new projects
 
 </td>
 
@@ -64,17 +64,41 @@ COFFEE   : REQUIRED ☕
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perline=6" alt="Programming Languages" />
+<img
+  src="https://skillicons.dev/icons?i=c,java,python&perline=3"
+  alt="C, Java, Python"
+/>
 
-### Database & Tools
+<br>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode,figma&perline=6" alt="Tools" />
+`C` • `Java` • `Python`
 
-### Currently Exploring
+### Backend / Databases
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,linux,sklearn&perline=6" alt="Currently Exploring" />
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres&perline=3"
+  alt="MySQL and PostgreSQL"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+  alt="MariaDB"
+/>
+
+<br>
+
+`MySQL` • `MariaDB` • `PostgreSQL`
+
+### Development Tools
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4"
+  alt="Development Tools"
+/>
 
 </div>
 
@@ -132,9 +156,9 @@ COFFEE   : REQUIRED ☕
 
 **Japanese Course Management System**
 
-Object-oriented information system for managing Japanese language classes.
+Information system designed to manage Japanese language courses using object-oriented analysis and design.
 
-`OOAD` `UML` `Database` `System Design`
+`Java` `OOAD` `UML` `Database`
 
 </td>
 
@@ -142,11 +166,11 @@ Object-oriented information system for managing Japanese language classes.
 
 ### 🚦 Traffic Speed Forecasting
 
-**Spatio-Temporal Traffic Prediction**
+**Traffic Data Analysis & Forecasting**
 
-Traffic forecasting using historical road speed, graph relationships, and machine learning.
+Traffic forecasting project using historical road-speed data and computational analysis.
 
-`Python` `GRU` `GCN` `Machine Learning`
+`Python` `Data Processing` `Machine Learning`
 
 </td>
 </tr>
@@ -156,11 +180,11 @@ Traffic forecasting using historical road speed, graph relationships, and machin
 
 ### 💬 Customer Review Classification
 
-**Sentiment & Review Analytics**
+**Customer Review Analytics**
 
-Customer review classification and sentiment analysis pipeline for service analytics.
+Customer review classification and sentiment analysis for service evaluation.
 
-`NLP` `TF-IDF` `SVM` `Python`
+`Python` `Data Analysis` `Classification`
 
 </td>
 
@@ -168,11 +192,11 @@ Customer review classification and sentiment analysis pipeline for service analy
 
 ### 🧺 Laundry Hub
 
-**Laundry Service Platform**
+**Laundry Service Information System**
 
-UI/UX concept connecting customers, laundry partners, and administrators in one ecosystem.
+UI/UX and system concept connecting users, laundry partners, and administrators.
 
-`UI/UX` `Product Design` `System Analysis`
+`UI/UX` `System Analysis` `Database`
 
 </td>
 </tr>
@@ -180,25 +204,32 @@ UI/UX concept connecting customers, laundry partners, and administrators in one 
 
 ---
 
-## `> cat interests.txt`
+## `> cat skills.yaml`
 
 ```yaml
-interests:
-  - Software Engineering
-  - Information Systems
-  - UI/UX Design
-  - Data Science
-  - Machine Learning
-  - System Analysis
-  - Product Development
-  - Artificial Intelligence
-
-currently_learning:
+programming_languages:
+  - C
   - Java
   - Python
-  - Database Design
-  - Object-Oriented Analysis & Design
-  - Machine Learning
+
+databases:
+  - MySQL
+  - MariaDB
+  - PostgreSQL
+
+tools:
+  - Git
+  - GitHub
+  - Visual Studio Code
+  - Figma
+
+interests:
+  - Software Development
+  - Information Systems
+  - Database Systems
+  - System Analysis
+  - UI/UX Design
+  - Data Processing
 ```
 
 ---
@@ -207,11 +238,21 @@ currently_learning:
 
 <div align="center">
 
-<img
-  src="https://gitascii.com/api/user/muliawhd?v=2"
-  width="100%"
-  alt="GitAscii Profile"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/muliawhd/muliawhd/gitascii/profiles/default/dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/muliawhd/muliawhd/gitascii/profiles/default/light.svg"
+  >
+  <img
+    alt="GitAscii Profile"
+    src="https://raw.githubusercontent.com/muliawhd/muliawhd/gitascii/profiles/default/dark.svg"
+    width="100%"
+  >
+</picture>
 
 </div>
 
@@ -221,7 +262,7 @@ currently_learning:
 
 <div align="center">
 
-### 📈 Building, Learning & Shipping
+### 📈 Building, Learning & Improving
 
 > *"Learn. Build. Break. Fix. Repeat."*
 
@@ -234,15 +275,15 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/muliawhd">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -257,9 +298,10 @@ currently_learning:
 ┌──────────────────────────────────────────┐
 │ USER     : muliawhd                     │
 │ ROLE     : Information Systems Student  │
+│ STACK    : C / Java / Python            │
+│ DATABASE : MySQL / MariaDB / PostgreSQL │
 │ STATUS   : Building something...        │
 │ LOCATION : Indonesia                    │
-│ UPTIME   : Still learning 🚀            │
 └──────────────────────────────────────────┘
 ```
 
