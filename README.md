@@ -23,7 +23,7 @@
 
 ---
 
-## `> whoami`
+## `> Who_am_I?`
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ I'm an **Information Systems student** interested in software development, datab
 STATUS   : LEARNING
 FOCUS    : BUILDING
 MODE     : CURIOUS
-COFFEE   : REQUIRED ☕
+COFFEE   : NO CAFFEINE ALLOWED
 ```
 
 </td>
