@@ -7,7 +7,7 @@
   alt="Mulia Wahiddin Profile Picture"
 />
 
-# Hi, I'm Mulia 👋
+# Hi, I'm Mvnx 👋
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Information+Systems+Student;C+%7C+Java+%7C+Python;Database+%26+System+Design;UI%2FUX+Enthusiast;Always+Learning+Something+New"
