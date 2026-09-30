@@ -232,44 +232,6 @@ interests:
   - Data Processing
 ```
 
----
-
-## `> ./gitascii`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/muliawhd/muliawhd/gitascii/profiles/default/dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/muliawhd/muliawhd/gitascii/profiles/default/light.svg"
-  >
-  <img
-    alt="GitAscii Profile"
-    src="https://raw.githubusercontent.com/muliawhd/muliawhd/gitascii/profiles/default/dark.svg"
-    width="100%"
-  >
-</picture>
-
-</div>
-
----
-
-## `> contribution --history`
-
-<div align="center">
-
-### 📈 Building, Learning & Improving
-
-> *"Learn. Build. Break. Fix. Repeat."*
-
-</div>
-
----
-
 ## `> connect --with-me`
 
 <div align="center">
